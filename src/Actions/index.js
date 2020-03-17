@@ -1,3 +1,3 @@
-import FetchingImages from './FetchingImages'
+import FetchingImages from './FetchingImages';
 
 export { FetchingImages };
