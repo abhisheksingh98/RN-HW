@@ -5,7 +5,7 @@ import {
     StyleSheet, 
     Button 
 } from 'react-native';
-import { DisplayContainer } from './../containers/DisplayContainer';
+import  DisplayContainer  from './../containers/DisplayContainer';
 
 class DisplayScreen extends Component {
     render() {
